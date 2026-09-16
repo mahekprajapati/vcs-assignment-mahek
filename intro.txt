@@ -1,0 +1,4 @@
+hii 
+i'm mahek 
+I am a Data Science student.
+I am learning Git and GitHub to improve my version control skills.
